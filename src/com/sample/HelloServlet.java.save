@@ -1,0 +1,14 @@
+package com.sample;
+
+import java.io.PrintWriter;
+public class HelloServlet extends HTTPServlet {
+
+	public void doGet(HTTPRequest request,HTTPResponse response) {
+
+	}
+
+
+
+
+}
+
